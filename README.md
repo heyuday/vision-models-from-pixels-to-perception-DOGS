@@ -1,6 +1,6 @@
 # 🧠 From Pixels to Perception: How CNNs See Dogs
 
-A visual deep-learning demo exploring how convolutional networks perceive and represent images.
+A visual deep learning project exploring how convolutional networks perceive and represent images.
 
 Built in **Google Colab** using **PyTorch, PCA, and Saliency Maps**.
 
